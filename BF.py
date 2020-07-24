@@ -1,6 +1,6 @@
 #coding:utf-8
 '''
-BF算法test
+BF算法
 '''
 def BF(input,target):
     location=[]
